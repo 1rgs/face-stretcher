@@ -1,6 +1,6 @@
 # Slack Face Stretcher
 
-Bored of your normal static Slack picture? Face-Stretcher is a cronjob deployed on [Modal](https://modal.com) that will stretch your face to whimsically proportions in your Slack profile picture.
+Bored of your static Slack picture? Face-Stretcher is a cronjob deployed on [Modal](https://modal.com) that will stretch your face to whimsical proportions in your Slack profile picture. Never be bored of your Slack profile picture again!
 
 It grabs your current profile picture, stretches it horizontally, and then re-uploads it to Slack. And then, before the next stretching cycle, it smartly reverts your profile picture to its original form, so that it's ready to be stretched all over again!
 
