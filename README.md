@@ -20,6 +20,9 @@ It grabs your current profile picture, stretches it horizontally, and then re-up
    modal deploy index.py
    ```
 
+3. **Use your picture**
+   - replace `/images/base.jpg` with your own picture
+
 ## Setting Up Slack Bot
 
 ### Create a Slack App
